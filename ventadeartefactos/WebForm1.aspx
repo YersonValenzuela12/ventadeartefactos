@@ -50,8 +50,16 @@
         </p>
         <p>
             &nbsp;</p>
+            <p>Listo</p>
     </form>
     <p>
         &nbsp;</p>
-</body>
+    <footer>
+        <p>
+            <div class="content-wrapper">
+            
+            </div>
+        </p>
+    </footer>
+    </body>
 </html>
